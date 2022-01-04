@@ -1,0 +1,14 @@
+.margin-left-icon {
+    margin-left: 12px;
+}
+
+.icon:hover {
+    background-color: lightgrey;
+    cursor:pointer;
+}
+
+.float-right-add{
+    float: right;
+    padding-top: 30px;
+    margin-right: 40px;
+}

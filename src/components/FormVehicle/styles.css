@@ -1,0 +1,88 @@
+/* .MuiFormControl-root {
+    margin-left: 15px !important;
+} */
+
+.button-send {
+    float: right;
+    margin-top: 15px !important;
+}
+
+.select-normalize-form-task {
+    min-width: 300px !important;
+    margin-bottom: 15px !important;
+}
+
+.btn-cad {
+    padding-top: 20px !important;
+}
+
+.padding-right-text {
+    padding-right: 25px !important;
+}
+
+.padding-top-check {
+    padding-top: 15px;
+}
+
+.span-base {
+    padding: 8px;
+    margin-right: 15px;
+    border: 2px black solid;
+    border-radius: 3px;
+}
+
+.span-blue {
+    background: blue;
+}
+
+.span-white {
+    background: #FFFFFF;
+}
+
+.span-grey {
+    background: #808080;
+}
+
+.span-silver {
+    background: #C0C0C0;
+}
+
+.span-black {
+    background: #000000;
+}
+
+.span-beige {
+    background: #CFB997;
+}
+
+.span-wine {
+    background: #722f37;
+}
+
+.span-golden {
+    background: #D4AF37;
+}
+
+.span-red {
+    background: #FF0000;
+}
+
+.span-yellow {
+    background: #FFFF00;
+}
+
+.span-orange {
+    background: #FFA500;
+}
+
+.span-brown {
+    background: #654321;
+}
+
+.span-pink {
+    background: #FF0084;
+}
+
+.span-green {
+    background: #00FF00;
+}

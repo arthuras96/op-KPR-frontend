@@ -1,0 +1,17 @@
+.tab-item-3 {
+    min-width: 32% !important;
+}
+
+.tab-item-2 {
+    min-width: 48% !important;
+}
+
+.btn-disabled {
+    opacity: 0.65; 
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.limite-height {
+    max-height: 70vh !important;
+}

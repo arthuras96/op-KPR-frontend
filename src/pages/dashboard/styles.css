@@ -1,0 +1,291 @@
+.rol-class-full{
+    height: 86vh !important;
+    overflow: auto;
+}
+
+.rol-class-half{
+    height: 40.3vh !important;
+    overflow: auto;
+}
+
+.rol-class-trio{
+    height: 24.7vh !important;
+    overflow: auto;
+}
+
+.rol-class-1-3{
+    max-height: 22vh !important;
+    overflow: auto;
+}
+
+.rol-class-2-3{
+    height: 72.5vh !important;
+    overflow: auto;
+}
+
+.rol-class-title{
+    max-height: 15vh !important;
+    overflow: auto;
+    background-color:grey;
+    color: white;
+    font-size: 17px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /* font-weight: bold; */
+}
+
+.hidden-overflow{
+    overflow: hidden !important;
+    height:92vh !important;
+}
+
+/* body {overflow: hidden; } */
+
+.divider-top {
+    margin-top: 4px !important;
+}
+
+.negative-top {
+    margin-top: -15px;
+}
+
+.icon-add:hover {
+    cursor: pointer;
+}
+
+.select-normalize {
+    min-width: 182px !important;
+}
+
+.autocomplete-normalize {
+    min-width: 182px !important;
+    display: inline-block;
+}
+
+.hidden-value {
+    display: none;
+}
+
+.divider-right {
+    margin-right: 14px;
+}
+
+.information-div {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 2px grey solid;
+    border-right: 2px grey solid;
+    border-bottom: 2px grey solid;
+    /* background-color: darkgray; */
+}
+
+.information-detail-div {
+    /* background-color: lightgrey; */
+    overflow: hidden !important;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    /* border-top: 3px #3f51b5 solid; */
+    border-left: 2px grey solid;
+    border-right: 2px grey solid;
+}
+
+.icon-detail-div {
+    font-size: 0.9rem !important;
+}
+
+.main-tab{
+    width: 100%;
+    flex-grow: 1;
+}
+
+.tab-item-5 {
+    min-width: 17.2% !important;
+}
+
+.tab-item-2 {
+    min-width: 47% !important;
+}
+
+.tab-item-3 {
+    min-width: 30% !important;
+}
+
+.tab-item-person {
+    min-width: 30.6% !important;
+}
+
+.data-input {
+    width: 100%;
+}
+
+.space-separator {
+    margin: 5px !important;
+}
+
+.annotations {
+    margin-top: 10px;
+}
+
+.root-tab-border {
+    border-bottom: 2px grey solid;
+    border-left: 2px grey solid;
+    border-right: 2px grey solid;
+}
+
+.mini-btn {
+    margin: 2px !important;
+    padding: 1px 5px !important;
+    line-height: 1 !important;
+    min-width: 23px !important;
+    max-width: 23px !important;
+}
+
+.finish-btn {
+    min-width: 98% !important;
+    margin-top: 5px !important;
+}
+
+/* #region TaskCard */
+.title {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+}
+
+.user {
+    font-size: 12px !important;
+}
+
+.account-title {
+    padding-top: 8px !important;
+    font-size: 12px !important;
+    color: darkgray !important;
+}
+
+.account {
+    font-size: 12px !important;
+    font-weight: 500 !important;
+}
+
+.card-blue {
+    line-height:0 !important;
+    border-style: solid !important;
+    border-color: #00f !important;
+    border-top-right-radius: 10px 10px !important;
+    border-width: 5px 5px 0px 0px !important;
+    height: 110px;
+}
+
+.card-green {
+    line-height:0 !important;
+    border-style: solid !important;
+    border-color: green !important;
+    border-top-right-radius: 10px 10px !important;
+    border-width: 5px 5px 0px 0px !important;
+    height: 110px;
+}
+
+.card-yellow {
+    line-height:0 !important;
+    border-style: solid !important;
+    border-color: yellow !important;
+    border-top-right-radius: 10px 10px !important;
+    border-width: 5px 5px 0px 0px !important;
+    height: 110px;
+}
+
+.card-red {
+    line-height:0 !important;
+    border-style: solid !important;
+    border-color: red !important;
+    border-top-right-radius: 10px 10px !important;
+    border-width: 5px 5px 0px 0px !important;
+    height: 110px;
+}
+
+.card-blue:hover{
+    background-color: lightgrey;
+    cursor:pointer;
+}
+
+.card-green:hover{
+    background-color: lightgrey;
+    cursor:pointer;
+}
+
+.card-yellow:hover{
+    background-color: lightgrey;
+    cursor:pointer;
+}
+
+.card-red:hover{
+    background-color: lightgrey;
+    cursor:pointer;
+}
+
+.MuiCardContent-root {
+    padding: 5px !important;
+}
+
+.MuiCardActions-root {
+    padding: 0px !important;
+}
+
+.button-block {
+    opacity: 0.2;
+    pointer-events: none;
+}
+
+.taskcard-title {
+    display:flex;
+    justify-content: space-between;
+    /* justify-content: center; */
+    align-items: center;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+/* #endregion */
+
+.MuiBox-root {
+    padding: 7px !important;
+}
+
+.btn-anno-pad {
+    margin-top: 10px !important;
+}
+
+.ptn-pers-pad {
+    margin-bottom: 10px !important;
+}
+
+.MuiDialog-paperWidthSm {
+    max-width: 900px !important;
+    max-height: 900px !important;
+    min-height: 600px !important;
+    min-width: 700px !important;
+}
+
+.space-between {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.iframe {
+    width: 320px;
+    height: 240px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.break {
+    flex-basis: 100%;
+}

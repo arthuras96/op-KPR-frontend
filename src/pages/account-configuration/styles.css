@@ -1,0 +1,44 @@
+.main-tab{
+    width: 100%;
+    flex-grow: 1;
+}
+
+.tab-item-8 {
+    min-width: 11.2% !important;
+}
+
+.center-title {
+    padding-right: 8vh;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+.icon:hover {
+    background-color: lightgrey;
+    cursor:pointer;
+}
+
+.float-right-add{
+    float: right;
+    padding-top: 30px;
+    margin-right: 40px;
+}
+
+.margin-left-icon {
+    margin-left: 12px;
+}
+
+.account-header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.account-back:hover {
+    cursor: pointer;
+    opacity: 10;
+}
+
+.account-back svg {
+    padding-top: 2vh;
+}

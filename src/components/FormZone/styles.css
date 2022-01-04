@@ -1,0 +1,24 @@
+/* .MuiFormControl-root {
+    margin-left: 15px !important;
+} */
+
+.button-send {
+    float: right;
+    margin-top: 15px !important;
+}
+
+.select-normalize {
+    min-width: 182px !important;
+}
+
+.btn-cad {
+    padding-top: 20px !important;
+}
+
+.padding-right-text {
+    padding-right: 25px !important;
+}
+
+.padding-top-check {
+    padding-top: 15px;
+}

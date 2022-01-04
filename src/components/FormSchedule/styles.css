@@ -1,0 +1,12 @@
+.sub-time {
+    display:flex;
+    justify-content: space-between;
+    /* justify-content: center; */
+    align-items: center;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+
+.inner-div-margin-left .MuiFormControl-root {
+    margin-left: 15px !important;
+}
